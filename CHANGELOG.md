@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2026-08-25
+## [1.0.0] - 2026-08-26
 ### Added
 - Version inicial
 - Deploy en Netlify
